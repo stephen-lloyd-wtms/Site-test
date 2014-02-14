@@ -1,0 +1,26 @@
+#wrapper {
+	border: 0px solid red;
+	width: 537;
+	text-align: left;
+}
+#left, #right {
+	float:none;
+}
+
+#topNavigation, #left p, #left address,
+#printButton, #introText, #subSectionNav {
+	display:none;
+}
+#bottom ul, #bottom li {
+	margin:0;
+	padding:0;
+	list-style-type: none;
+}
+#bottom {
+	margin-left:0;
+}
+#bottom #bottomLeft,
+#bottom #bottomRight {
+	float: none;  
+	text-align: left;
+		}

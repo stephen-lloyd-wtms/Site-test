@@ -1,0 +1,47 @@
+#offer #topNavigation a:hover, #offerSub #topNavigation a:hover, 
+#offer #topNavigation a.selected:link, #offer #topNavigation a.selected:visited, 
+#offer #topNavigation a.selected:hover, #offer #topNavigation a.selected:active,
+#offerSub #topNavigation a.selected:link, #offerSub #topNavigation a.selected:visited, 
+#offerSub #topNavigation a.selected:hover, #offerSub #topNavigation a.selected:active {
+	background-color: #474960;
+	color: #FFD817;
+}
+
+#offer #right, #offerSub #right {
+	background-image: none;
+	background-color: #fff;
+	color:inherit;
+}
+#offer #topContent {
+	background: #FFD817 url(../files/images/XM_L2_What_moth-image.jpg) 4px 4px no-repeat;
+	color:inherit;
+	}
+#offerSub #topContent {
+	background: #FFD817 url(../files/images/XM_L3_What_moth-image.jpg) 4px 4px no-repeat;
+	color:inherit;
+	}
+#offer #introText, #offerSub #introText {
+	background-color: #474960;
+	color: #fff;
+	margin-top: 35px;
+	float:right;
+	width: 261px;
+	padding-bottom: 50px;
+	}
+#offerSub #introText {
+	padding-bottom: 0px;
+}
+#offer #right #introText p {
+	margin:0;
+	padding: 8px 15px 0px 12px;
+}
+#offer .prop {
+	height: 344px;
+	float: left;
+	border: 0px solid yellow;
+}
+#offerSub .prop {
+	height: 126px;
+	float: left;
+	border: 0px solid yellow;
+}

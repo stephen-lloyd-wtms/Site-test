@@ -1,0 +1,270 @@
+#clients #topNavigation a:hover, #clientsCase #topNavigation a:hover, #clientsSub #topNavigation a:hover,
+#clients #topNavigation a.selected:link, #clients #topNavigation a.selected:visited, 
+#clients #topNavigation a.selected:hover, #clients #topNavigation a.selected:active,
+#clientsCase #topNavigation a.selected:link, #clientsCase #topNavigation a.selected:visited, 
+#clientsCase #topNavigation a.selected:hover, #clientsCase #topNavigation a.selected:active,
+#clientsSub #topNavigation a.selected:link, #clientsSub #topNavigation a.selected:visited, 
+#clientsSub #topNavigation a.selected:hover, #clientsSub #topNavigation a.selected:active
+ {
+	background-color: #474960;
+	color: #ff66cc;
+}
+#clients #right, #clientsSub #right, #clientsCase #right {
+	background-image: none;
+}
+#clients #topContent {
+	background: #fc008c url(../files/images/XM_L2_Clients_feather-image.jpg) 4px 4px no-repeat;
+	color: #fff;
+	}
+#clients #introText {
+	background-color: #474960;
+	color: #fff;
+	margin-top: 35px;
+	float:right;
+	width: 210px;
+	padding-bottom: 50px;
+	}
+#clients #right #introText p { 
+	margin:10px 35px 0px 12px;
+}
+#clients .prop {
+	height: 344px;
+	float: left;
+	border: 0px solid yellow;
+}
+#subSectionNav {
+	background-color: #04b7e7;
+	color: #fff;
+	clear:both;
+	padding-top: 10px;
+	margin:0;
+	position:relative;/*included on 2606*/
+	 }
+
+* html #subSectionNav {
+	padding-top: 5px;
+	padding-bottom: 15px;
+	}
+/*\*/
+* html #subSectionNav {
+	padding-bottom: 0px;
+}
+/**/
+
+#subSectionNav ul, #subSectionNav li{
+	margin:0;
+	padding:0;
+}
+#subSectionNav ul{
+	padding-left: 10px; 
+	/*\*/
+	padding-bottom: 15px;
+	/**/
+	}
+#subSectionNav li {
+	display: inline;
+	list-style-type: none;
+	}
+
+#subSectionNav a:link, #subSectionNav a:visited,
+#subSectionNav a:hover,#subSectionNav a:active {
+	background-color: #04b7e7;
+	color:#fff;
+	font-size: 0.85em;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-left: 8px;
+	padding-right: 8px;
+	}
+#subSectionNav a:hover {
+	text-decoration: underline;
+	}
+#subSectionNav a.selected:link, #subSectionNav a.selected:visited,
+#subSectionNav a.selected:hover, #subSectionNav a.selected:active {
+	background-color: #fff;
+	color:#04b7e7;
+	font-weight: bold;
+	}
+/*included on 2606*/	
+#subSectionNav a.printclass {
+	position:absolute;
+	top:12px;
+	left:490px;
+}
+/*end*/
+#subContent{
+	background-color: #fff;
+	color: inherit;
+	padding-bottom: 25px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+	border: 0px solid red;
+	}
+/*\*/
+#subContent{
+	height:1%;
+	}
+/**/
+
+#subContent h2 {
+	border: 0px solid red;
+	margin:0;
+	padding:0;
+}
+#subContentText {
+	background-color:#E5E5E5;
+	color: inherit;
+	margin-right: 60px;
+	padding: 35px 25px 20px 15px;
+}
+#subContentText p {
+	margin:0 15px 10px 0px;
+	padding:0;
+	}
+#subContentText ul, #subContentText li {
+	margin:0;
+	padding:0;
+}
+#subContentText li {
+	list-style-type: none;
+}
+#subContentText a:link, #subContentText a:hover,
+#subContentText a:visited, #subContentText a:active {
+	background-color:#E5E5E5;
+	color: #3399cc;
+	font-weight: bold;
+	text-decoration: none;
+}
+#subContentText a:hover {
+	text-decoration: underline;
+	}
+#clientsSub #topContent, #clientsCase #topContent  {
+	background: #fc008c url(../files/images/XM_L3_Access_feathers-image.jpg) 4px 4px no-repeat;
+	color: #fff;
+	}
+#clientsSub #introText,
+#clientsCase #introText {
+	background-color: #474960;
+	color: #fff;
+	margin-top: 19px;
+	float:right;
+	width: 261px;
+	padding-bottom: 0;
+	}
+#clientsSub #right #introText p,
+#clientsCase #right #introText p {
+	margin: 0;
+	padding:0;
+} 
+#clientsSub .prop, #clientsCase .prop {
+	height: 126px;
+	float: left;
+	border: 0px solid yellow;
+}
+#clientsSub #subContentText {
+	margin-right:60px;
+	/*\*/
+	height: 1%;
+	/**/
+}
+#clientsCase #subContent {
+	border: 0px solid red;
+	padding-top: 0px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+#clientsCase #subContentText {
+	background-color:#fff;
+	color:inherit;
+	margin-right: 0px;
+	padding: 0px;
+}
+#subContentText #caseText {
+	background-color: #e5e5e5;
+	color:inherit;
+	padding-top: 25px;
+	float: left;
+	width:285px;
+}
+#subContentText #caseText ul {
+	margin:10px 25px 10px 25px;
+	}
+#subContentText #caseText li {
+	list-style-type:square;
+	display:list-item;
+	margin-bottom:5px;
+}
+#subContentText #caseTextNoBG {
+	padding-left:8px;
+	width:527px;
+	}
+#subContentText #caseTextNoBG .col2, #subContentText #caseTextNoBG .col4, #subContentText #caseTextNoBG .col1, #subContentText #caseTextNoBG .col3 {
+	padding-right:5px;
+	padding-bottom:5px;
+	vertical-align:middle;
+	background-color: #e5e5e5;
+	}
+#subContentText #caseTextNoBG .col1, #subContentText #caseTextNoBG .col3 {
+	width:245px;
+	}
+#subContentText #caseTextNoBG .col2, #subContentText #caseTextNoBG .col4 {
+	width:10px;
+	}
+#subContentText #caseTextNoBG .col2 {
+	/*border-right:1px solid black;*/
+	border-left:1px solid black;
+	}
+#subContentText #caseTextNoBG .col3 {
+	padding-left:5px;
+	}
+#subContentText #caseTextNoBG .col4 {
+	border-left:1px solid black;
+	}
+#subContentText #caseText p {
+	padding-left: 8px;
+	padding-right: 20px;
+}
+#subContentText #caseImages {
+	float: right;
+	width: 292px;
+	padding-left: 6px;
+	}
+.clientsList {
+	border: 0px solid red;
+	clear: both;
+	}
+.clientsList .first {
+	float: left;
+	width: 160px;
+	}
+.clientsList .first strong,
+.clientsList .second strong {
+	display: block;
+	width: 130px;
+}
+#subContentText .clientsList .first ul li {
+	padding-right: 10px;
+}
+.clientsList .second {
+	border: 0px solid green;
+	float: left;
+	width: 170px;
+	}
+.clientsList .second ul {
+	margin-right:20px;
+}
+.clientsList .third {
+	border: 0px solid yellow;
+	float: left;
+	width: 150px;
+	}
+#subContentText #caseImages p.flash {
+	margin:0;
+	padding: 0px;
+	}
+
+#tblAwards {
+	width:526px;
+	border-top: 5px solid #ffffff;
+	background-color: #e5e5e5;
+	}

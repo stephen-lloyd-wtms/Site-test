@@ -1,0 +1,69 @@
+.indexcells {
+	FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 12px; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.xm_names {
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 15px; FONT-STYLE: italic; FONT-FAMILY: times, times new roman
+}
+.summary {
+	FONT-SIZE: 13px; COLOR: #ff9900; LINE-HEIGHT: 15px; FONT-STYLE: italic; FONT-FAMILY: verdana, arial
+}
+.leftcell {
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 14px; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.body {
+	FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 15px; FONT-FAMILY: times, times new roman; TEXT-DECORATION: none
+}
+.body2 {
+	FONT-SIZE: 10px; COLOR: #ffffff; LINE-HEIGHT: 12px; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.bodyhome {
+	FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 14px; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.articletext {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: times, times new roman; TEXT-DECORATION: none
+}
+.articletext2 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.articleheaders {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.articletables {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana, arial
+}
+.homeheaders {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+.pgtitles2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.cstitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.sub {
+	FONT-SIZE: 9px; COLOR: #ff9900; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.pgtitles3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #ffffff; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.pgtitles {
+	FONT-SIZE: 20px; COLOR: #ff9900; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.pgaddress {
+	FONT-SIZE: 12px; COLOR: #ff9900; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.talk {
+	FONT-SIZE: 18px; COLOR: #ff8410; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.links {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: verdana, arial
+}
+.link2 {
+	COLOR: #fd9701
+}
+.goldlinks {
+	FONT-SIZE: 11px; COLOR: #f78822; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.pdflinks {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}

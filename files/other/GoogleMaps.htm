@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Google Maps JavaScript API Example</title>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAQTvsJ2owxKVgw4mWUf5J9RSg3VWwFwGoib9QF6Yw-WoajXrMvBQouBDft3iHt1cZ29V8fwC5zn91jw"
+      type="text/javascript"></script>
+    <script type="text/javascript">
+
+    //<![CDATA[
+
+      function load() 
+      {
+          if (GBrowserIsCompatible())
+          {
+            var map = new GMap2(document.getElementById("map"));
+            map.setCenter(new GLatLng(2, 22), 3);
+            map.addControl(new GSmallMapControl());
+            map.addControl(new GMapTypeControl());
+            
+            //Array with parameters to locate projects
+            
+            var project= new Array(2);
+            
+            var project[0] = new Array(2);
+            var project[1] = new Array(2);
+                  //alert(project[i]);
+                  //var project = new Array(2);
+                  project[0][0] = 20;
+                  project[0][1] = -15;
+                  project[1][0] = 15;
+                  project[1][1] = -5;
+             }
+             for (var i=0; i<2; i++)
+             {
+                for (var j=0; j<2; j++)
+                {
+                    var point = new GLatLng(project[i][j],project[i][j]);
+                    alert(project[i][j]);
+                    map.addOverlay (new GMarker(point));         
+                }
+             }
+
+          }
+          var map = new GMap2(document.getElementById("map1"));
+          map.setCenter(new GLatLng(0, 0), 3);
+        }
+    //]]>
+    </script>
+  </head>
+  <body onload="load()" onunload="GUnload()">
+    <div id="map" style="position:absolute; top: 2%; left:45%; width: 500px; height: 450px"></div>
+	<div id="map1" style="position:absolute; top: 2%; left:5%; width: 500px; height: 450px"></div>
+     
+  </body>
+</html>
+
+

@@ -1,0 +1,38 @@
+#constant #right {
+	background-image: none;
+	}
+#constant #topContent {
+	background: #04B7E7 url(../files/images/XM_L3_Access_fish-image.jpg) 4px 4px no-repeat;
+	color:#fff;
+	}
+#constant #introText {
+	background-color: #474960;
+	color: #fff;
+	margin-top: 35px;
+	float:right;
+	width: 261px;
+	border: 0px solid #fff;
+	padding-bottom: 0px;
+	}
+
+
+#constant #right #introText p {
+	margin:0;
+	padding:0;
+}
+#constant .prop {
+	height: 126px;
+	float: left;
+	border: 0px solid yellow;
+}
+
+/*site map styles*/
+#sitemap li {
+	margin-left: 25px;
+}
+#sitemap ul {
+	margin-bottom: 10px;
+}
+#sitemap ul ul {
+	margin-top: 5px;
+}

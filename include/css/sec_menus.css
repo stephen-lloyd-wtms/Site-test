@@ -1,0 +1,102 @@
+#black {
+	LEFT: 1px; WIDTH: 10px; CLIP: rect(0px 10px 346px 0px); POSITION: absolute; TOP: 1px; HEIGHT: 346px; BACKGROUND-COLOR: #ff9933; layer-background-color: #ff9933
+}
+#menu1 {
+	Z-INDEX: 10; LEFT: 81px; WIDTH: 163px; POSITION: absolute; TOP: 78px; HEIGHT: 70px; BACKGROUND-COLOR: #000000; layer-background-color: #000000;
+}
+#menu10 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 1px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu11 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 24px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu12 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 47px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu2 {
+	Z-INDEX: 10; LEFT: 175px; VISIBILITY: hidden; WIDTH: 163px; CLIP: rect(0px 163px 93px 0px); POSITION: absolute; TOP: 78px; HEIGHT: 93px; BACKGROUND-COLOR: #000000; layer-background-color: #000000
+}
+#menu20 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 1px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu21 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 24px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu22 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 47px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu23 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 70px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu3 {
+	Z-INDEX: 10; LEFT: 276px; VISIBILITY: hidden; WIDTH: 163px; CLIP: rect(0px 163px 346px 0px); POSITION: absolute; TOP: 78px; HEIGHT: 346px; BACKGROUND-COLOR: #000000; layer-background-color: #000000
+}
+#menu30 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 1px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu31 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 24px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu32 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 47px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu33 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 70px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu34 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 93px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu35 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 116px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu36 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 139px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu37 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 162px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu38 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 185px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu39 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 208px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu310 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 231px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu311 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 254px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu312 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 277px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu313 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 300px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu314 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 323px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu4 {
+	Z-INDEX: 10; LEFT: 373px; VISIBILITY: hidden; WIDTH: 163px; CLIP: rect(0px 150px 44px 0px); POSITION: absolute; TOP: 78px; HEIGHT: 70px; BACKGROUND-COLOR: #000000; layer-background-color: #000000
+}
+#menu40 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 1px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu41 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 24px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#menu42 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; LEFT: 12px; VISIBILITY: hidden; PADDING-BOTTOM: 4px; WIDTH: 150px; CLIP: rect(0px 150px 22px 0px); PADDING-TOP: 4px; POSITION: absolute; TOP: 47px; HEIGHT: 22px; BACKGROUND-COLOR: #65757f; layer-background-color: #65757f
+}
+#map {
+	Z-INDEX: 25; LEFT: 460px; VISIBILITY: hidden; WIDTH: 225px; POSITION: absolute; TOP: 0px; HEIGHT: 100px
+}
+#background {
+	Z-INDEX: 1; LEFT: 0px; WIDTH: 225px; POSITION: absolute; TOP: 0px; HEIGHT: 100px
+}
+#foreground {
+	Z-INDEX: 5; LEFT: 10px; VISIBILITY: visible; WIDTH: 204px; POSITION: absolute; TOP: 0px; HEIGHT: 78px
+}
+.names {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: arial,helvetica,verdana; TEXT-DECORATION: none
+}

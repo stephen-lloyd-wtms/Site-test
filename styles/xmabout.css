@@ -1,0 +1,199 @@
+#about #topNavigation a:hover, #aboutusSub #topNavigation a:hover, 
+#about #topNavigation a.selected:link, #about #topNavigation a.selected:visited, 
+#about #topNavigation a.selected:hover, #about #topNavigation a.selected:active,
+#aboutusSub #topNavigation a.selected:link, #aboutusSub #topNavigation a.selected:visited, 
+#aboutusSub #topNavigation a.selected:hover, #aboutusSub #topNavigation a.selected:active {
+	color: #FF6600;
+	background-color: #474960;
+	}
+#about #right, #aboutusSub #right {
+	background-image: none;
+	}
+#about #topContent {
+	background: #FF6600 url(../files/images/XM_L2_About_bee-image.jpg) 4px 4px no-repeat;
+	color:#fff;
+	}
+#about #introText {
+	background-color: #474960;
+	color: #fff;
+	margin-top: 35px;
+	float:right;
+	width: 261px;
+	padding-bottom: 50px;
+	}
+#about #right #introText p {
+	margin:0;
+	padding: 8px 35px 0px 12px;
+	}
+#about .prop {
+	height: 344px;
+	float: left;
+	border: 0px solid yellow;
+	}
+#aboutusSub #topContent {
+	background: #FF6600 url(../files/images/XM_L3_About_bee-image.jpg) 4px 4px no-repeat;
+	color: inherit;
+	}
+#aboutusSub #introText {
+	background-color: #474960;
+	color: #fff;
+	margin-top: 35px;
+	float:right;
+	width: 261px;
+	padding-bottom: 0;
+	}
+#aboutusSub #right #introText p {
+	margin:0;
+	padding:0;
+}  
+
+#aboutusSub .prop {
+	height: 126px;
+	float: left;
+	border: 0px solid yellow;
+}
+#aboutusSub #subContent {
+	/*\*/
+	height: 1%;
+	/**/
+}
+#aboutusSub #subContentText {
+	background-color: #e5e5e5;
+	margin-right: 60px;
+	color: #333;
+	}
+/*Start Staff Section*/
+
+#staff {
+	clear: both;
+	background-color: #fff;
+	color:inherit;
+}
+#staff a {	
+	background-color: #e5e5e5;
+	color: #3399cc;
+	font-size: 0.85em;
+	font-weight: bold;
+	text-decoration: none;
+	}
+#staff a:hover {
+	text-decoration: underline;
+}
+#staff .staff1 {
+	margin-top: 10px;	
+	border: 0px solid blue;
+	}
+#staff .staff2 {
+	margin-top: 10px;	
+	border: 0px solid blue;
+	}	
+#staff .staff3 {
+	margin-top: 10px;	
+	border: 0px solid blue;
+	}
+.staffDetails1, .staffDetails2, .staffDetails3 {
+	background-color: #e5e5e5;
+	color:inherit;
+	float: left;
+	width: 185px;
+	margin-right: 3px;
+	border: 0px solid green;
+}
+.staffDetails2 {
+	width: 155px;
+}
+.staffDetails3 {
+	width: 177px;
+}
+.staffDetails1 p, .staffDetails2 p, .staffDetails3 p   {
+	margin:0;
+	padding:0;
+}
+.staffDetails1 .staffImage, .staffDetails2 .staffImage, .staffDetails3 .staffImage {
+	float: left;
+	width: 55px;
+}
+.staffDetails1 .staffText, .staffDetails2 .staffText, .staffDetails3 .staffText {
+	float: right;
+	width: 128px;
+}
+.staffDetails2 .staffText {
+	width: 99px; 
+}
+.staffDetails3 .staffText {
+	width: 120px;
+}
+.staffDetails1 .staffText a:link, .staffDetails1 .staffText a:hover,
+.staffDetails1 .staffText a:visited, .staffDetails1 .staffText a:active,.staffDetails1 .staffText .title,
+.staffDetails2 .staffText a:link, .staffDetails2 .staffText a:hover,
+.staffDetails2 .staffText a:visited, .staffDetails2 .staffText a:active,.staffDetails2 .staffText .title,
+.staffDetails3 .staffText a:link, .staffDetails3 .staffText a:hover,
+.staffDetails3 .staffText a:visited, .staffDetails3 .staffText a:active, .staffDetails3 .staffText .title {
+	display: block;
+	font-size: 0.9em;
+}
+.staffDetails1 .staffText a:hover {
+	text-decoration:underline;
+}
+/*End Staff Section*/
+
+/*****************************/
+/*STAFF INDIVIDUAL PAGES*/
+/*****************************/
+#staffBrief {
+	border: 0px solid red;
+	background:#E5E5E5 url(/files/images/XM_L3_About_ourpeople_1px_1.gif) top left repeat-y;
+	/*background: url(../files/images/XM_AboutUs_bg.gif) top left repeat-y;*/
+	width: 526px;
+	padding-bottom:10px;
+}
+#staffDescription {
+	float:left; 
+	width: 288px;
+	}
+#staffDescription p {	
+	padding-left: 8px;
+	padding-right: 15px;
+}
+#staffDescription a {	
+	background-color: #e5e5e5;
+	color: #3399cc;
+	font-weight: bold;
+	text-decoration: none;
+}
+#staffDescription a:hover {	
+	text-decoration: underline;}
+#staffTitle {
+	background-color: #999;
+	color: #fff;
+	padding-bottom: 5px;
+}
+#staffTitle p {
+	margin: 0;
+	padding: 0 0 0 8px;
+	}
+#otherStaff {
+	float: right;
+	width:213px;
+	padding-left: 20px;
+	padding-top: 15px;
+	border: 0px solid yellow;
+}
+#otherStaff p {
+	padding-left:0;
+	margin-left:0;
+	margin-right: 40px;
+	}
+#otherStaff a {
+	color: #3399cc;
+	background-color: #e5e5e5;
+	font-weight: bold;
+	text-decoration: none;
+	}
+#otherStaff a:hover {
+	text-decoration: underline;}
+.staffDetails1 .prop1{
+	float: right; 
+	width: 1px; 
+	height: 55px;
+}

@@ -1,0 +1,26 @@
+.toolTitle {font-family:verdana,arial,helvetica; font-size:10pt; font-weight:bold; background-color:#0078D4; color:#000000;}
+td.clsTDMouseover {font-family:Arial;font-size:8pt;color:black;background-color:CFD6E8;border:0pt solid #737B92;cursor:hand;}
+td.clsTDMouseout {font-family:Arial;font-size:8pt;color:black;background-color:EEEEEE;border:0pt solid #CCCCCC;cursor:arrow;}
+td.clsTDDisabled {font-family:Arial;font-size:8pt;color:white;background-color:EEEEEE;border:0pt solid #CCCCCC;}
+
+td.toolTitleBar {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none; font-weight:bold;}
+td.toolText {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+.FontFamilyOptionText {width:80px; font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+.FontSizeOptionText {width:40px; font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+
+a.tab:link {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+a.tab:visited {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+a.tab:active {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+a.tab:hover {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none;}
+
+a.selTab:link {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none; font-weight:bold;}
+a.selTab:visited {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none; font-weight:bold;}
+a.selTab:active {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none; font-weight:bold;}
+a.selTab:hover {font-family:verdana,arial,helvetica; font-size:9px; color:#000000; text-decoration:none; font-weight:bold;}
+
+#divContent1 {position:absolute; top:37; left:5; width:392; height:245; z-index:110;}
+#divContent2 {position:absolute; top:37; left:5; width:392; height:245; z-index:109;}
+#divContent3 {position:absolute; top:37; left:5; width:392; height:245; z-index:108;}
+#divContent4 {position:absolute; top:37; left:5; width:392; height:245; z-index:107;}
+
+.cmstbl {font:0%}
